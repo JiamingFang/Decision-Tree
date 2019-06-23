@@ -1,4 +1,6 @@
-This is a program that creates a decision tree from the excel data provided and uses this decision tree to predict results for validation data. There are two different algorithms, the first one uses ID3 to generate all nodes, the second uses ID3 with five fold cross validation to find the best max_depth and then creates decision tree using that max_depth. 
+This is a program that creates a decision tree from the excel data provided and uses this decision tree to predict results for validation 
+data. There are two different algorithms, the first one uses ID3 to generate all nodes, the second uses
+ID3 with five fold cross validation to find the best max_depth and then creates decision tree using that max_depth. 
 
 I ran the program using python 3.7.3 64-bit on windows
 command to run program:
